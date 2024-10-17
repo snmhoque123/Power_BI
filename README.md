@@ -2,7 +2,7 @@
 
 The Power BI Report file size is 107 mb and Github doesn't support to upload the large file.
 
-## [Click here to download here](https://drive.google.com/drive/folders/11LoVEGj6YqT2EfF_G7lDa361VX7Da9ms?usp=sharing)
+## [Click here to download Power BI Report](https://drive.google.com/drive/folders/11LoVEGj6YqT2EfF_G7lDa361VX7Da9ms?usp=sharing)
 
 ![Cover Page](https://github.com/snmhoque123/Power_BI/blob/main/1_Cover_Page.png)
 ![Sales Analysis](https://github.com/snmhoque123/Power_BI/blob/main/2_Sales_Analysis.png)
