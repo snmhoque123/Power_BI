@@ -37,6 +37,19 @@ Data Sources:
 
 ![Absent Report](https://github.com/snmhoque123/Power_BI/blob/main/6_Absent_Report.png)
 
+### Power BI Model View:
+<b> Model View of Sales Dataset </b>
+
+![Sales Dataset Model View](https://github.com/snmhoque123/Power_BI/blob/main/7_Model%20View_Sales.png)
+
+<b> Model View of Overtime dataset </b>
+
+![Model View of Overtime dataset](https://github.com/snmhoque123/Power_BI/blob/main/8_Model_View_Overtime.png)
+
+<b> Model View of Absent dataset </b>
+
+![Absent Dataset Model View](https://github.com/snmhoque123/Power_BI/blob/main/9_Model_View_Absent.png)
+
 ### Results:
 - Better product promotion strategies by understanding sales impacts.
 - Improved vendor selection based on delivery performance.
